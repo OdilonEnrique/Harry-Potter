@@ -47,6 +47,7 @@ main .personagem .imagem {
     font-family: "Secular One", sans-serif;
     font-weight: 400;
     margin-bottom: 20px;
+    width: 500px;
 }
 
 .conteudo .descricao {
